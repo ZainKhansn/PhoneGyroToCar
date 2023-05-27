@@ -1,4 +1,4 @@
-# SendDataFromAndroidToRaspi
+# SendDataFromAndroidToRaspberryPi
 The "Realwifi" app is designed to facilitate sending a message from an Android phone to a Raspberry Pi over a Wi-Fi network.
 The app provides a simple user interface with a button that triggers the message sending process.
 When the user clicks the "Send" button, the app establishes a socket connection with the Raspberry Pi using the IP address and port specified in the code.
