@@ -1,4 +1,5 @@
 GO FOLLOW COLLABORATOR @Jaganmranal 
+
 Android Phone Gyro-controlled Car using Raspberry Pi
 This project aims to create a car controlled by the built-in gyroscope of an Android phone, powered by a Raspberry Pi. It utilizes two motors connected to an L298N motor driver for precise control and movement. This project was developed in collaboration with Jagan Mranal as part of our Computer Science final project.
 
